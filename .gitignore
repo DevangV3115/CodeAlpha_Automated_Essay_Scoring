@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Datasets and model checkpoints
+data/
+saved_models/
+reports/confusion_matrix.png
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
